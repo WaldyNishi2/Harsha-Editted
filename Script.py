@@ -1,10 +1,5 @@
 class script(object):
-    START_TXT = """<b>HELLO {}
-    
-ɪ ᴀᴍ ᴘᴏᴡᴇʀ ғᴜʟʟ Movie Search  ʙᴏᴛ
-i Have Over 5 Lakh + Movie Files But Not Theatre Prints So Dont Search Theatre Prints 😉
-
-ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/CSAdmin69_bot">HARSHA</a></b> 😏</b>"""
+    START_TXT = """👋💙 𝙷𝙴𝙻𝙻𝙾 𝙼𝙰𝚆𝙰\n\nMʏ Nᴀᴍᴇ Iꜱ 𝚆𝙰𝙻𝙳𝚈 𝚆𝚁𝙸𝚃𝙸𝙽𝙶𝚂 𝙿𝙸𝚁𝙰𝙲𝚈 𝙱𝙾𝚃,\nI Cᴀɴ Pʀᴏᴠɪᴅᴇ Lᴀᴛᴇꜱᴛ Tʜᴇᴀᴛʀᴇ Mᴏᴠɪᴇꜱ Hᴇʀᴇ... Jᴜꜱᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Mᴀᴋᴇ Mᴇ Aᴅᴍɪɴ Oʀ Jᴜꜱᴛ Aꜱᴋ Mᴏᴠɪᴇ Hᴇʀᴇ...\n\nIꜰ Yᴏᴜ Wᴀɴᴛ HD Mᴏᴠɪᴇꜱ, Tʜᴇɴ Aꜱᴋ Hᴇʀᴇ @Waldy_Writingss_SearchBot...\n\nBᴏᴛ Mᴀᴅᴇ Bʏ @Waldy_Writings 💙🙇‍♂️</b>"""
 
     
     HELP_TXT = """<b>Hᴇʏ {}
@@ -12,7 +7,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>
  🤖 ᴍʏ ɴᴀᴍᴇ : {}
- 👨‍💻 ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/CSAdmin69_bot'>HARSHA</a>
+ 👨‍💻 ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/Waldy_Writings'>WALDY</a>
  📚 ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
  📝 ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a>
  ♻️ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a>
@@ -21,7 +16,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     SOURCE_TXT = """
 <b>Tʜɪꜱ Bᴏᴛ Iꜱ Nᴏᴛ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
-ꜱᴏᴜʀᴄᴇ : <a href='https://t.me/CSAdmin69_bot'>sᴏᴜʀᴄᴇ ʟɪɴᴋ</a></b> 🙃</b>"""
+ꜱᴏᴜʀᴄᴇ : <a href='https://t.me/waldywritings_Bot'>sᴏᴜʀᴄᴇ ʟɪɴᴋ</a></b> 🙃</b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -136,7 +131,7 @@ Nᴀᴍᴇ - {}"""
 
 ꜱᴇʀɪᴇꜱ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
-ᴇxᴀᴍᴘʟᴇ : Loki S01 or Loki S01E04 or Lucifer S03E24
+ᴇxᴀᴍᴘʟᴇ : Loki S02 or Loki S02E01 or Lucifer S03E24
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)</b>"""
 
@@ -188,7 +183,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 ɢᴏ ᴛᴏ ɢᴏᴏɢʟᴇ ➠ ᴛʏᴘᴇ ꜱᴇʀɪᴇꜱ ɴᴀᴍᴇ ➠ ᴄᴏᴘʏ ᴄᴏʀʀᴇᴄᴛ ɴᴀᴍᴇ ➠ ᴘᴀꜱᴛᴇ ᴛʜɪꜱ ɢʀᴏᴜᴘ
 
-ᴇxᴀᴍᴘʟᴇ : Loki S01E01
+ᴇxᴀᴍᴘʟᴇ : Loki S02E01
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)"""
 
