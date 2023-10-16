@@ -25,10 +25,10 @@ async def start(client, message):
         buttons = [[
              InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕', url=f"https://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton('💥 Mᴏᴠɪᴇ Uᴘᴅᴀᴛᴇs 💥', url='https://t.me/+szVUa25KLuFlNmFl'),
-            InlineKeyboardButton('🔎 Sᴇᴀʀᴄʜ Gʀᴏᴜᴘ 🔍', url='https://t.me/+JMMJAoTfLjdjOTY1')
+            InlineKeyboardButton('💥 Mᴏᴠɪᴇ Uᴘᴅᴀᴛᴇs 💥', url='https://t.me/Waldy_Writings'),
+            InlineKeyboardButton('🔎 Sᴇᴀʀᴄʜ Gʀᴏᴜᴘ 🔍', url='https://t.me/+9eEO1hSKO0w3ZDE1')
             ],[
-            InlineKeyboardButton(' 💌 Contact 💌 ', url="https://t.me/CSAdmin69_bot")
+            InlineKeyboardButton(' 💌 Contact 💌 ', url="https://t.me/WaldyWritings_Bot")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply(script.START_TXT.format(message.from_user.mention if message.from_user else message.chat.title, temp.U_NAME, temp.B_NAME), reply_markup=reply_markup, disable_web_page_preview=True)
@@ -45,10 +45,10 @@ async def start(client, message):
         buttons = [[
              InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕', url=f"https://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton('💥 Mᴏᴠɪᴇ Uᴘᴅᴀᴛᴇs 💥', url='https://t.me/+szVUa25KLuFlNmFl'),
-            InlineKeyboardButton('🔎 Sᴇᴀʀᴄʜ Gʀᴏᴜᴘ 🔍', url='https://t.me/+JMMJAoTfLjdjOTY1')
+            InlineKeyboardButton('💥 Mᴏᴠɪᴇ Uᴘᴅᴀᴛᴇs 💥', url='https://t.me/Waldy_Writings'),
+            InlineKeyboardButton('🔎 Sᴇᴀʀᴄʜ Gʀᴏᴜᴘ 🔍', url='https://t.me/+9eEO1hSKO0w3ZDE1')
             ],[
-            InlineKeyboardButton(' 💌 Contact 💌 ', url="https://t.me/CSAdmin69_bot")
+            InlineKeyboardButton(' 💌 Contact 💌 ', url="https://t.me/WaldyWritings_Bot")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -90,12 +90,12 @@ async def start(client, message):
         buttons = [[
                    InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕', url=f"https://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton('💥 Mᴏᴠɪᴇ Uᴘᴅᴀᴛᴇs 💥', url='https://t.me/+szVUa25KLuFlNmFl'),
-            InlineKeyboardButton('🔎 Sᴇᴀʀᴄʜ Gʀᴏᴜᴘ 🔍', url='https://t.me/+JMMJAoTfLjdjOTY1')
+            InlineKeyboardButton('💥 Mᴏᴠɪᴇ Uᴘᴅᴀᴛᴇs 💥', url='https://t.me/Waldy_Writings'),
+            InlineKeyboardButton('🔎 Sᴇᴀʀᴄʜ Gʀᴏᴜᴘ 🔍', url='https://t.me/+9eEO1hSKO0w3ZDE1')
             ],[
-            InlineKeyboardButton(' 💌 Contact 💌 ', url="https://t.me/CSAdmin69_bot")
+            InlineKeyboardButton(' 💌 Contact 💌 ', url="https://t.me/WaldyWritings_Bot")
                 ],[
-                    InlineKeyboardButton('Made By HARSHITHA', url="https://t.me//harshiii_admin_bot")
+                    InlineKeyboardButton('Made By WALDY', url="https://t.me/Waldy_Writings")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)      
         await message.reply_photo(
@@ -146,7 +146,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton("😇ᴍᴏᴠɪᴇ ʀᴇQᴜᴇꜱᴛ ɢʀᴏᴜᴘ😇", url="https://t.me/+elzJeBEQuAY5ZWFl")
+                          InlineKeyboardButton("😇ᴍᴏᴠɪᴇ ʀᴇQᴜᴇꜱᴛ ɢʀᴏᴜᴘ😇", url="https://t.me/+9eEO1hSKO0w3ZDE1")
                          ]
                         ]
                     )
@@ -162,7 +162,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton("😇ᴍᴏᴠɪᴇ ʀᴇQᴜᴇꜱᴛ ɢʀᴏᴜᴘ😇", url="https://t.me/+elzJeBEQuAY5ZWFl")
+                          InlineKeyboardButton("😇ᴍᴏᴠɪᴇ ʀᴇQᴜᴇꜱᴛ ɢʀᴏᴜᴘ😇", url="https://t.me/+9eEO1hSKO0w3ZDE1")
                          ]
                         ]
                     )
@@ -323,7 +323,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                    [
-                          InlineKeyboardButton("😇ᴍᴏᴠɪᴇ ʀᴇQᴜᴇꜱᴛ ɢʀᴏᴜᴘ😇", url="https://t.me/+elzJeBEQuAY5ZWFl")
+                          InlineKeyboardButton("😇ᴍᴏᴠɪᴇ ʀᴇQᴜᴇꜱᴛ ɢʀᴏᴜᴘ😇", url="https://t.me/+9eEO1hSKO0w3ZDE1")
                      ]
                     ]
                 )
@@ -378,7 +378,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                          InlineKeyboardButton("😇ᴍᴏᴠɪᴇ ʀᴇQᴜᴇꜱᴛ ɢʀᴏᴜᴘ😇", url="https://t.me/+elzJeBEQuAY5ZWFl")
+                          InlineKeyboardButton("😇ᴍᴏᴠɪᴇ ʀᴇQᴜᴇꜱᴛ ɢʀᴏᴜᴘ😇", url="https://t.me/+9eEO1hSKO0w3ZDE1")
                      ]
                     ]
                 )
@@ -432,7 +432,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
              [
-                          InlineKeyboardButton("😇ᴍᴏᴠɪᴇ ʀᴇQᴜᴇꜱᴛ ɢʀᴏᴜᴘ😇", url="https://t.me/+elzJeBEQuAY5ZWFl")
+                          InlineKeyboardButton("😇ᴍᴏᴠɪᴇ ʀᴇQᴜᴇꜱᴛ ɢʀᴏᴜᴘ😇", url="https://t.me/+9eEO1hSKO0w3ZDE1")
              ]
             ]
         )
